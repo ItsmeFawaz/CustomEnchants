@@ -1,0 +1,11 @@
+name: CustomEnchants
+version: 1.0.0
+main: me.bottleofglass.CustomEnchants.Main
+author: Faw
+description: A plugin that adds custom enchants that when applied on equipment and worn, give permanent potion effect
+loadbefore:
+  - SuperMobCoins
+commands:
+  ce:
+    usage: /ceshop
+    description: opens the custom enchant shop gui

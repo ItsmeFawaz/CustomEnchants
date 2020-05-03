@@ -1,0 +1,18 @@
+shopPrices:
+  luminationPrice: 1
+  waterBreathingPrice: 1
+  feedingPrice: 1
+  resistancePrice: 1
+  fireResistancePrice: 1
+  mobcoinPrice: 1
+  inquisitivePrice: 1
+  healthBoostPrice: 1
+  strengthPrice: 1
+  speedPrice: 1
+messages:
+  insufficientFunds: "&cYou don't have enough levels to buy this token"
+  transactionSuccess: "&eYou have successfully bought {name} for {price} levels"
+  wrongEquipment: "&cYou can't put this enchant on a {item}"
+  enchantSuccess: "&aYou have successfully enchanted this &b{item} &awith {enchant}"
+  existingEnchant: "&cThis item already has this enchant"
+  shopBook: "&bBuy custom enchant books for levels!"
